@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hello Everyone! 👋
+## I am Tim and I want to become a fully grown Data Analyst:
+- 🌱 Currently I am learning how to analyse time-series data with Python
+- 🔭 My most recent Project was to make price predictions on Bitcoin and I will keep on improving my project.
+- :sunny: If you have any suggestions or advice please reach out to me here on GitHub 
 
-<!--
-**timjab92/timjab92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **timjab92/timjab92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Here** are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
