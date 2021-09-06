@@ -1,4 +1,3 @@
-### Hello Everyone! 👋
 ## I am Tim and I want to become a fully grown Data Analyst:
 - 🌱 Currently I am learning how to analyse time-series data with Python
 - 🔭 My most recent Project was to make price predictions on Bitcoin and I will keep on improving my project.
